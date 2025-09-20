@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Patterns\Creational\Builder\README.pt-BR.md" />
-    <Compile Include="Patterns\Creational\Singleton\README.pt-BR.md" />
-  </ItemGroup>
-
 </Project>

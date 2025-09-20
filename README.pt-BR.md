@@ -35,7 +35,7 @@ Soluções reutilizáveis para problemas comuns no design de software.
 - [X] Singleton  
 - [ ] Factory Method  
 - [ ] Abstract Factory  
-- [ ] Builder  
+- [X] Builder  
 - [ ] Prototype  
 
 **Padrões Estruturais (Structural)**  
