@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Patterns\Creational\Builder\README.pt-BR.md" />
+    <Compile Include="Patterns\Creational\Singleton\README.pt-BR.md" />
+  </ItemGroup>
+
+</Project>

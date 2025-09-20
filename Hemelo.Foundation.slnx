@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path="README.pt-BR.md" />
+  </Folder>
+  <Project Path="Hemelo.Foundation.Tests/Hemelo.Foundation.Tests.csproj" />
+  <Project Path="Hemelo.Foundation/Hemelo.Foundation.csproj" />
+</Solution>
